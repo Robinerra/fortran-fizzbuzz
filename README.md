@@ -1,0 +1,1 @@
+Fortran, not as bad as I expected. It's pretty relaxing to program in old laguages like this.
